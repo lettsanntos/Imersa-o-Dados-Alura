@@ -1,4 +1,3 @@
-# Imersão-Dados-Alura
 # Imersão Dados com Python - Alura
 
 Este repositório contém o projeto desenvolvido durante a Imersão Dados com Python da Alura. O objetivo da imersão foi aprender a criar dashboards interativos utilizando a biblioteca Streamlit, permitindo a visualização e análise de dados de forma dinâmica.
